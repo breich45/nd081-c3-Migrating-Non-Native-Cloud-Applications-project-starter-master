@@ -15,7 +15,7 @@ class BaseConfig:
     SERVICE_BUS_CONNECTION_STRING =''Endpoint=sb://servicebus121.servicebus.windows.net/;SharedAccessKeyName=RootManageSharedAccessKey;SharedAccessKey=t3OUYwCQ2gz+4U6LjrXMsQ6quIdQrt595ys3rjbNY64=""
     SERVICE_BUS_QUEUE_NAME ='121notificationqueue'
     ADMIN_EMAIL_ADDRESS: 'brent.reich@gmail.com'
-    SENDGRID_API_KEY = ''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"
+    SENDGRID_API_KEY = ''"
 
 
 class DevelopmentConfig(BaseConfig):
