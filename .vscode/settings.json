@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/5e08e3e7-b30f-4b45-88a8-47fd9ad11672/resourceGroups/121migrationproj-rg/providers/Microsoft.Web/sites/121migrationapp",
+    "appService.deploySubpath": "web"
+}
